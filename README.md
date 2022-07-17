@@ -35,7 +35,7 @@ An automated dashboard providing quick and latest profit insights in order to su
 ![Trend of Revenue Generated, Expenditure and Net Profit Marigin](https://github.com/hamzaziizzz/Profit-Analysis-Interactive-Dashboard/blob/main/images/Net%20Profit%20Margin%20Trend.png)
 
 ## Top Customers
-![Company's Top Customers based on Net Profit Gained](https://github.com/hamzaziizzz/Profit-Analysis-Interactive-Dashboard/blob/main/images/Top%20Products.png)
+![Company's Top Customers based on Net Profit Gained](https://github.com/hamzaziizzz/Profit-Analysis-Interactive-Dashboard/blob/main/images/Top%20Customers.png)
 
 ## Top Products
 ![Company's Top Products based on Quantity of Products Sold](https://github.com/hamzaziizzz/Profit-Analysis-Interactive-Dashboard/blob/main/images/Top%20Products.png)

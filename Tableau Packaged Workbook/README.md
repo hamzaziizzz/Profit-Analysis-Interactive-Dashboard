@@ -3,5 +3,4 @@ This folder contains **Profit Analysis.twbx** (_Tableau Packaged Workbook_) and,
 This is how the final project will look
 ![Profit Analysis Interactive Dashboard](https://github.com/hamzaziizzz/Profit-Analysis-Interactive-Dashboard/blob/main/images/Profit%20Analysis.png)
 
-_Link for Final Interactive Dashboars_
-[Profit Analysis Interactive Dashboard](https://public.tableau.com/app/profile/hamza.aziz/viz/ProfitAnalysis_16579584274590/ProfitAnalysis)
+[_Link for Final Interactive Dashboars_](https://public.tableau.com/app/profile/hamza.aziz/viz/ProfitAnalysis_16579584274590/ProfitAnalysis)
